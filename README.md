@@ -12,5 +12,9 @@
 | [딥러닝 기반 낙상 예측](./projects/fall-prediction.md) | TCN, ResNet 기반 센서 예측 모델링 | PyTorch, 시계열 |
 | [토픽 모델링 & 텍스트마이닝](./projects/topic-modeling.md) | 다양한 도메인에서의 텍스트 분석 및 네트워크 구조화 | Python, Gensim |
 
+## 📚 기타 연구 성과
+- [연구 및 논문 요약 보기](./projects/research-publications.md)
+
+
 > 📫 이메일: llckybbang@naver.com
 > 🐙 GitHub: [github.com/AhnJooeon](https://github.com/AhnJooeon)
